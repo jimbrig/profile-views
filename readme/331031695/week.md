@@ -2,11 +2,11 @@
 | [**Week →**](https://github.com/jimbrig/profile-views/blob/master/readme/331031695/week.md) | [**Month →**](https://github.com/jimbrig/profile-views/blob/master/readme/331031695/month.md) | [**Year →**](https://github.com/jimbrig/profile-views/blob/master/readme/331031695/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [jimsdots](https://github.com/jimbrig/jimsdots)
-![Image of profile-views](https://github.com/jimbrig/profile-views/blob/master/graph/331031695/large/year.png)
+![Image of profile-views](https://github.com/jimbrig/profile-views/blob/master/graph/331031695/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Year Page Views Table</h2>
+	<h2>:calendar: Week Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,40 +21,29 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/4/1</code>
+			<code>2023/4/4</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/3/1</code>
+			<code>2023/4/3</code>
 		</td>
 		<td>
 			<code>2</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>33</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/2/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/1/1</code>
+			<code>2023/4/2</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -65,7 +54,18 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/12/1</code>
+			<code>2023/4/1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/3/31</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -76,7 +76,18 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/11/1</code>
+			<code>2023/3/30</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/3/29</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -87,73 +98,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/10/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/9/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/8/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/7/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/6/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/5/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2022/4/1</code>
+			<code>2023/3/28</code>
 		</td>
 		<td>
 			<code>0</code>

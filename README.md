@@ -21,71 +21,71 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/285926530/year.md">
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/285926530/week.md">
 				jimbrig
 			</a>
 		</td>
 		<td>
-			2023/4/1 1:07 AM UTC
+			2023/4/2 1:07 AM UTC
 		</td>
 		<td>
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/285926530/small/year.png" height="20"> 322
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/285926530/small/week.png" height="20"> 322
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/235878383/year.md">
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/235878383/week.md">
 				jimstools
 			</a>
 		</td>
 		<td>
-			2023/4/1 1:08 AM UTC
+			2023/4/2 1:08 AM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/235878383/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/235878383/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/427463930/year.md">
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/427463930/week.md">
 				KaaS
 			</a>
 		</td>
 		<td>
-			2023/4/1 12:00 AM UTC
+			2023/4/2 12:00 AM UTC
 		</td>
 		<td>
-			45
+			47
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/427463930/small/year.png" height="20"> 111
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/427463930/small/week.png" height="20"> 113
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/331031695/year.md">
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/331031695/week.md">
 				jimsdots
 			</a>
 		</td>
 		<td>
-			2023/4/1 12:00 AM UTC
+			2023/4/2 1:08 AM UTC
 		</td>
 		<td>
 			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/331031695/small/year.png" height="20"> 40
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/331031695/small/week.png" height="20"> 40
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/4 1:08 AM UTC</i></small>
+<small><i>Last updated on 2023/4/4 1:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
