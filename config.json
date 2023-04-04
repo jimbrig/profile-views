@@ -3,6 +3,9 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "jimbrig",
+    "jimstools",
+    "KaaS",
+    "jimsdots"
   ]
 }
