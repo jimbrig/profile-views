@@ -67,25 +67,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/427463930/small/week.png" height="20"> 367
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/331031695/week.md">
-				jimsdots
-			</a>
-		</td>
-		<td>
-			2023/4/18 12:17 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/331031695/small/week.png" height="20"> 99
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/20 6:06 AM UTC</i></small>
+<small><i>Last updated on 2023/4/20 12:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
