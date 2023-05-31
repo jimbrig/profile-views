@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/5/31 12:21 AM UTC</i></small>
+<small><i>Last updated on 2023/5/31 6:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
