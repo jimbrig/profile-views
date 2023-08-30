@@ -15,12 +15,12 @@ jobs:
     name: GitHub Profile Views Counter Action
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3.6.0
+      - uses: actions/checkout@v3
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
-      - uses: actions/setup-node@latest
+      - uses: actions/setup-node@v3
         with:
           node-version: 14.17.0
-      - uses: gayanvoice/github-profile-views-counter-action@3.0.0
+      - uses: gayanvoice/github-profile-views-counter-action@v3
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
