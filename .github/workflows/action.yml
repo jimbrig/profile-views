@@ -3,6 +3,13 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - 'master'
+      - 'main'
+    paths:
+      - '.github/**'
+      
 jobs:
   release:
     name: GitHub Profile Views Counter Action
@@ -14,6 +21,6 @@ jobs:
       - uses: actions/setup-node@latest
         with:
           node-version: 14.17.0
-      - uses: gayanvoice/github-profile-views-counter-action@latest
+      - uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
