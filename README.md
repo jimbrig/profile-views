@@ -35,9 +35,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/285926530/small/week.png" height="20"> 1751
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/235878383/week.md">
+				jimstools
+			</a>
+		</td>
+		<td>
+			2024/11/21 6:08 AM UTC
+		</td>
+		<td>
+			69
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/235878383/small/week.png" height="20"> 259
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/427463930/week.md">
+				KaaS
+			</a>
+		</td>
+		<td>
+			2024/11/21 12:00 AM UTC
+		</td>
+		<td>
+			2583
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/427463930/small/week.png" height="20"> 11399
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jimbrig/profile-views/tree/master/readme/331031695/week.md">
+				jimsdots
+			</a>
+		</td>
+		<td>
+			2024/11/21 6:08 AM UTC
+		</td>
+		<td>
+			225
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jimbrig/profile-views/raw/master/graph/331031695/small/week.png" height="20"> 1255
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/11/23 12:24 AM UTC</i></small>
+<small><i>Last updated on 2024/11/23 6:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
